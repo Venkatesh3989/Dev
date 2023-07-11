@@ -2,6 +2,6 @@ class Demo
 {
 	public static void main(...)
 	{
-		System.out.println("My java code");
+		System.out.println(" java code");
 	}
 }
