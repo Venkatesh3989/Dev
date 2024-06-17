@@ -2,9 +2,8 @@ class Demo
 {
 	public static void main(...)
 	{
-<<<<<<< HEAD
 		System.out.println("Merged java code");
-=======
->>>>>>> dev
+		System.out.println("Merged HTML code");
+		System.out.println("Merged YAML code");
 	}
 }
